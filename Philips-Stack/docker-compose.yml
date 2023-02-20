@@ -1,0 +1,56 @@
+version: "3"
+
+services:
+  
+  mosquitto:
+    container_name: MQTT
+    image: eclipse-mosquitto:2.0.7
+    restart: on-failure:10
+    volumes:
+      - ./mqtt/config:/mosquitto/config
+      - ./mqtt/data:/mosquitto/data
+      - ./mqtt/log:/mosquitto/log
+    ports:
+      - 1883:1883
+      - 9001:9001  
+
+  influxdb:
+    container_name: InfluxDB2
+    image: influxdb:2.6.1
+    volumes:
+      - influxdb-storage:/var/lib/influxdb2:rw
+    env_file:
+      - .env
+    entrypoint: ["./entrypoint.sh"]
+    depends_on:
+      - mosquitto
+    restart: on-failure:10
+    ports:
+      - ${DOCKER_INFLUXDB_INIT_PORT}:8086
+
+  telegraf:
+    container_name: Telegraf
+    image: telegraf:1.25.2
+    volumes:
+      - ${TELEGRAF_CFG_PATH}:/etc/telegraf/telegraf.conf:rw
+    env_file:
+      - .env
+    depends_on:
+      - influxdb
+
+  grafana:
+    container_name: Grafana
+    image: grafana/grafana-oss:8.4.3
+    volumes:
+      - grafana-storage:/var/lib/grafana:rw
+    depends_on:
+      - influxdb
+    ports:
+      - ${GRAFANA_PORT}:3000
+
+volumes:
+  grafana-storage:
+  influxdb-storage:
+  config:
+  data:
+  log:
