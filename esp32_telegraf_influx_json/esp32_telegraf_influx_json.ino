@@ -60,7 +60,7 @@ void setup() {
   doc["Current"] = 35;
   doc["Power"] = "baddi";
   doc["Temperature"] = 34;
-  doc["Cycle-of-Thermostat"] = 34
+  doc["Cycle-of-Thermostat"] = 34;
   doc["Test-Status"] = 34;
   doc["Test-Fault"] = 34;
   doc["Temp-Alert"] = 34;
