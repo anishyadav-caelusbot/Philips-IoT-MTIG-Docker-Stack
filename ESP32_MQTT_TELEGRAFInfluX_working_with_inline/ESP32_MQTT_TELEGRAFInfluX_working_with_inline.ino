@@ -90,12 +90,26 @@ void loop() {
   client.loop();
 
   // Get the current object temperatur of the sensor
-  float objt = 25;
-  float objt2 = 156;
-  
-  
+  float voltage = 256.2;
+  float current = 1.01;
+  float power = 600.2;
+  float temp =182.30;
+  int TestStatus =1;
+int PanelInput = 1;
+int StationStatus =1;
+int Scycle=34;
+int Tcycle=125;
+int Fault =3;
+
+int rssi  = WiFi.RSSI();
+
+  //temperature="+String(objt)
+
+    //String message = String("weather,location=us temperature="+String(objt));
   // Create the message that will be send using mqtt
-  String message = String("measurement,Device=Station-001,Location=Baddi,Sensor=Panel-001 Voltage=235.00,Current=1.01,Power=263.00,Temperature=154.40,TestStatus=1i,PanelInput=1i,StationStatus=1i,StationCycles=28i,ThermostatCycle=320i,Fault=2i,WiFiStrength=-45i");
+  //String message = String("measurement,Device=Station-001,Location=Baddi,Sensor=Panel-001 Voltage=235.00,Current=1.01,Power=263.00,Temperature=154.40,TestStatus=1i,PanelInput=1i,StationStatus=1i,StationCycles=28i,ThermostatCycle=320i,Fault=2i,WiFiStrength=-45i");
+  String message = String("measurement,Device=Station-001,Location=Baddi,Sensor=Panel-001 Voltage="+String(voltage)+",Current="+String(current)+",Power="+String(power)+",Temperature="+String(temp)+",TestStatus="+String(TestStatus)+"i,PanelInput="+String(PanelInput)+"i,StationStatus="+String(StationStatus)+"i,StationCycles="+String(Scycle)+"i,ThermostatCycle="+String(Tcycle)+"i,Fault="+String(Fault)+"i,WiFiStrength="+String(rssi)+"i");
+  
   message.toCharArray(msg, message.length());
   Serial.println(msg);
   
