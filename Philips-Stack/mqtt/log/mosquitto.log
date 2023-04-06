@@ -361,3 +361,377 @@
 1677344024: New connection from 172.18.0.1:40074 on port 1883.
 1677344024: New client connected from 172.18.0.1:40074 as ESP32Client (p2, c1, k15).
 1677345132: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1680545806: mosquitto version 2.0.7 starting
+1680545806: Config loaded from /mosquitto/config/mosquitto.conf.
+1680545806: Opening ipv4 listen socket on port 1883.
+1680545806: Opening ipv6 listen socket on port 1883.
+1680545806: Opening ipv4 listen socket on port 9001.
+1680545806: Opening ipv6 listen socket on port 9001.
+1680545806: mosquitto version 2.0.7 running
+1680545810: New connection from 172.18.0.5:50710 on port 1883.
+1680545810: New client connected from 172.18.0.5:50710 as Telegraf-Consumer-2f1yb (p2, c1, k60).
+1680547607: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1680549408: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1680551127: New connection from 172.18.0.1:53314 on port 1883.
+1680551127: New client connected from 172.18.0.1:53314 as ESP8266Client-c9f5 (p2, c1, k15, u'mqtt').
+1680551131: New connection from 172.18.0.1:53316 on port 1883.
+1680551131: New client connected from 172.18.0.1:53316 as ESP8266Client-ec40 (p2, c1, k15, u'mqtt').
+1680551135: New connection from 172.18.0.1:53318 on port 1883.
+1680551138: New client connected from 172.18.0.1:53318 as ESP8266Client-8f1b (p2, c1, k15, u'mqtt').
+1680551142: New connection from 172.18.0.1:53320 on port 1883.
+1680551142: New client connected from 172.18.0.1:53320 as ESP8266Client-154b (p2, c1, k15, u'mqtt').
+1680551149: New connection from 172.18.0.1:53322 on port 1883.
+1680551149: New client connected from 172.18.0.1:53322 as ESP8266Client-ad52 (p2, c1, k15, u'mqtt').
+1680551152: Client ESP8266Client-c9f5 has exceeded timeout, disconnecting.
+1680551153: Client ESP8266Client-8f1b closed its connection.
+1680551153: New connection from 172.18.0.1:53324 on port 1883.
+1680551153: New client connected from 172.18.0.1:53324 as ESP8266Client-1520 (p2, c1, k15, u'mqtt').
+1680551157: New connection from 172.18.0.1:53326 on port 1883.
+1680551157: New client connected from 172.18.0.1:53326 as ESP8266Client-ff99 (p2, c1, k15, u'mqtt').
+1680551158: Client ESP8266Client-ec40 has exceeded timeout, disconnecting.
+1680551164: Client ESP8266Client-154b has exceeded timeout, disconnecting.
+1680551176: Client ESP8266Client-ad52 has exceeded timeout, disconnecting.
+1680551176: Client ESP8266Client-1520 has exceeded timeout, disconnecting.
+1680551182: Client ESP8266Client-ff99 has exceeded timeout, disconnecting.
+1680551186: New connection from 172.18.0.1:53328 on port 1883.
+1680551186: New client connected from 172.18.0.1:53328 as ESP8266Client-3346 (p2, c1, k15, u'mqtt').
+1680551209: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1680551396: Client Telegraf-Consumer-2f1yb disconnected.
+1680551398: New connection from 172.18.0.5:52068 on port 1883.
+1680551398: New client connected from 172.18.0.5:52068 as Telegraf-Consumer-T75Cc (p2, c1, k60).
+1680552124: Client ESP8266Client-3346 has exceeded timeout, disconnecting.
+1680552131: New connection from 172.18.0.1:53358 on port 1883.
+1680552131: New client connected from 172.18.0.1:53358 as ESP8266Client-6ccd (p2, c1, k15, u'mqtt').
+1680552238: Client ESP8266Client-6ccd has exceeded timeout, disconnecting.
+1680552244: New connection from 172.18.0.1:53360 on port 1883.
+1680552244: New client connected from 172.18.0.1:53360 as ESP8266Client-5a8d (p2, c1, k15, u'mqtt').
+1680552352: Client ESP8266Client-5a8d has exceeded timeout, disconnecting.
+1680552357: New connection from 172.18.0.1:53362 on port 1883.
+1680552357: New client connected from 172.18.0.1:53362 as ESP8266Client-c4d5 (p2, c1, k15, u'mqtt').
+1680552778: Client ESP8266Client-c4d5 has exceeded timeout, disconnecting.
+1680552785: New connection from 172.18.0.1:53364 on port 1883.
+1680552785: New client connected from 172.18.0.1:53364 as ESP8266Client-46c5 (p2, c1, k15, u'mqtt').
+1680553010: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1680553134: New connection from 172.18.0.1:53370 on port 1883.
+1680553134: New client connected from 172.18.0.1:53370 as ESP8266Client-da1 (p2, c1, k15, u'mqtt').
+1680553142: Client ESP8266Client-46c5 closed its connection.
+1680553142: Client Telegraf-Consumer-T75Cc disconnected.
+1680553144: mosquitto version 2.0.7 terminating
+1680553144: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1680606420: mosquitto version 2.0.7 starting
+1680606420: Config loaded from /mosquitto/config/mosquitto.conf.
+1680606420: Opening ipv4 listen socket on port 1883.
+1680606420: Opening ipv6 listen socket on port 1883.
+1680606420: Opening ipv4 listen socket on port 9001.
+1680606420: Opening ipv6 listen socket on port 9001.
+1680606420: mosquitto version 2.0.7 running
+1680606424: New connection from 172.18.0.5:52090 on port 1883.
+1680606424: New client connected from 172.18.0.5:52090 as Telegraf-Consumer-61uB6 (p2, c1, k60).
+1680606625: New connection from 172.18.0.1:53374 on port 1883.
+1680606625: New client connected from 172.18.0.1:53374 as ESP8266Client-ee26 (p2, c1, k15, u'mqtt').
+1680606635: New connection from 172.18.0.1:53376 on port 1883.
+1680606635: New client connected from 172.18.0.1:53376 as ESP8266Client-6098 (p2, c1, k15, u'mqtt').
+1680606642: New connection from 172.18.0.1:53378 on port 1883.
+1680606642: New client connected from 172.18.0.1:53378 as ESP8266Client-2575 (p2, c1, k15, u'mqtt').
+1680606644: Client ESP8266Client-ee26 closed its connection.
+1680606651: New connection from 172.18.0.1:53380 on port 1883.
+1680606651: New client connected from 172.18.0.1:53380 as ESP8266Client-4e62 (p2, c1, k15, u'mqtt').
+1680606660: Client ESP8266Client-6098 has exceeded timeout, disconnecting.
+1680606661: Client ESP8266Client-2575 closed its connection.
+1680606663: New connection from 172.18.0.1:53382 on port 1883.
+1680606663: New client connected from 172.18.0.1:53382 as ESP8266Client-f6a6 (p2, c1, k15, u'mqtt').
+1680606669: New connection from 172.18.0.1:53384 on port 1883.
+1680606669: New client connected from 172.18.0.1:53384 as ESP8266Client-68c9 (p2, c1, k15, u'mqtt').
+1680606671: Client ESP8266Client-4e62 closed its connection.
+1680606686: New connection from 172.18.0.1:53386 on port 1883.
+1680606686: New client connected from 172.18.0.1:53386 as ESP8266Client-b9d3 (p2, c1, k15, u'mqtt').
+1680606690: Client ESP8266Client-f6a6 has exceeded timeout, disconnecting.
+1680606692: New connection from 172.18.0.1:53388 on port 1883.
+1680606692: New client connected from 172.18.0.1:53388 as ESP8266Client-4edf (p2, c1, k15, u'mqtt').
+1680606696: Client ESP8266Client-68c9 has exceeded timeout, disconnecting.
+1680606701: New connection from 172.18.0.1:53390 on port 1883.
+1680606701: New client connected from 172.18.0.1:53390 as ESP8266Client-7178 (p2, c1, k15, u'mqtt').
+1680606705: Client ESP8266Client-b9d3 closed its connection.
+1680606708: New connection from 172.18.0.1:53392 on port 1883.
+1680606708: New client connected from 172.18.0.1:53392 as ESP8266Client-2789 (p2, c1, k15, u'mqtt').
+1680606713: Client ESP8266Client-2789 closed its connection.
+1680606713: New connection from 172.18.0.1:53394 on port 1883.
+1680606720: Client ESP8266Client-4edf has exceeded timeout, disconnecting.
+1680606721: Client ESP8266Client-7178 closed its connection.
+1680606721: New client connected from 172.18.0.1:53394 as ESP8266Client-cba5 (p2, c1, k15, u'mqtt').
+1680606728: New connection from 172.18.0.1:53396 on port 1883.
+1680606730: New client connected from 172.18.0.1:53396 as ESP8266Client-71b4 (p2, c1, k15, u'mqtt').
+1680606741: Client ESP8266Client-cba5 closed its connection.
+1680606746: Client ESP8266Client-71b4 closed its connection.
+1680606746: New connection from 172.18.0.1:53398 on port 1883.
+1680606746: New client connected from 172.18.0.1:53398 as ESP8266Client-8a8f (p2, c1, k15, u'mqtt').
+1680606753: New connection from 172.18.0.1:53400 on port 1883.
+1680606753: New client connected from 172.18.0.1:53400 as ESP8266Client-6718 (p2, c1, k15, u'mqtt').
+1680606761: Client ESP8266Client-6718 closed its connection.
+1680606761: Client ESP8266Client-8a8f closed its connection.
+1680606761: New connection from 172.18.0.1:53402 on port 1883.
+1680606764: New client connected from 172.18.0.1:53402 as ESP8266Client-e97 (p2, c1, k15, u'mqtt').
+1680606771: New connection from 172.18.0.1:53404 on port 1883.
+1680606771: New client connected from 172.18.0.1:53404 as ESP8266Client-d178 (p2, c1, k15, u'mqtt').
+1680606781: New connection from 172.18.0.1:53406 on port 1883.
+1680606781: New client connected from 172.18.0.1:53406 as ESP8266Client-8e99 (p2, c1, k15, u'mqtt').
+1680606787: Client ESP8266Client-d178 closed its connection.
+1680606787: New connection from 172.18.0.1:53408 on port 1883.
+1680606792: Client ESP8266Client-e97 has exceeded timeout, disconnecting.
+1680606796: New client connected from 172.18.0.1:53408 as ESP8266Client-bf89 (p2, c1, k15, u'mqtt').
+1680606802: New connection from 172.18.0.1:53410 on port 1883.
+1680606802: New client connected from 172.18.0.1:53410 as ESP8266Client-6d80 (p2, c1, k15, u'mqtt').
+1680606804: Client ESP8266Client-8e99 has exceeded timeout, disconnecting.
+1680606809: New connection from 172.18.0.1:53412 on port 1883.
+1680606809: New client connected from 172.18.0.1:53412 as ESP8266Client-5ae7 (p2, c1, k15, u'mqtt').
+1680606815: New connection from 172.18.0.1:53414 on port 1883.
+1680606815: New client connected from 172.18.0.1:53414 as ESP8266Client-8f4f (p2, c1, k15, u'mqtt').
+1680606821: New connection from 172.18.0.1:53416 on port 1883.
+1680606821: New client connected from 172.18.0.1:53416 as ESP8266Client-8b1e (p2, c1, k15, u'mqtt').
+1680606822: Client ESP8266Client-bf89 has exceeded timeout, disconnecting.
+1680606827: New connection from 172.18.0.1:53418 on port 1883.
+1680606827: New client connected from 172.18.0.1:53418 as ESP8266Client-601e (p2, c1, k15, u'mqtt').
+1680606828: Client ESP8266Client-6d80 has exceeded timeout, disconnecting.
+1680606834: Client ESP8266Client-5ae7 has exceeded timeout, disconnecting.
+1680606840: Client ESP8266Client-8f4f has exceeded timeout, disconnecting.
+1680606842: New connection from 172.18.0.1:53420 on port 1883.
+1680606842: New client connected from 172.18.0.1:53420 as ESP8266Client-4204 (p2, c1, k15, u'mqtt').
+1680606846: Client ESP8266Client-8b1e has exceeded timeout, disconnecting.
+1680606848: New connection from 172.18.0.1:53422 on port 1883.
+1680606848: New client connected from 172.18.0.1:53422 as ESP8266Client-613e (p2, c1, k15, u'mqtt').
+1680606852: Client ESP8266Client-601e has exceeded timeout, disconnecting.
+1680606857: Client ESP8266Client-4204 closed its connection.
+1680606872: New connection from 172.18.0.1:53424 on port 1883.
+1680606872: New client connected from 172.18.0.1:53424 as ESP8266Client-40b7 (p2, c1, k15, u'mqtt').
+1680606876: Client ESP8266Client-613e has exceeded timeout, disconnecting.
+1680606878: New connection from 172.18.0.1:53426 on port 1883.
+1680606878: New client connected from 172.18.0.1:53426 as ESP8266Client-e4b9 (p2, c1, k15, u'mqtt').
+1680606893: Client ESP8266Client-40b7 closed its connection.
+1680606897: Client ESP8266Client-e4b9 closed its connection.
+1680606926: New connection from 172.18.0.1:53428 on port 1883.
+1680606926: New client connected from 172.18.0.1:53428 as ESP8266Client-3ed (p2, c1, k15, u'mqtt').
+1680607259: New connection from 172.18.0.1:53432 on port 1883.
+1680607259: New client connected from 172.18.0.1:53432 as ESP8266Client-35a6 (p2, c1, k15, u'mqtt').
+1680607260: Client ESP8266Client-3ed has exceeded timeout, disconnecting.
+1680607266: New connection from 172.18.0.1:53434 on port 1883.
+1680607266: New client connected from 172.18.0.1:53434 as ESP8266Client-1c6b (p2, c1, k15, u'mqtt').
+1680607273: New connection from 172.18.0.1:53436 on port 1883.
+1680607273: New client connected from 172.18.0.1:53436 as ESP8266Client-f064 (p2, c1, k15, u'mqtt').
+1680607279: New connection from 172.18.0.1:53438 on port 1883.
+1680607284: Client ESP8266Client-35a6 has exceeded timeout, disconnecting.
+1680607285: Client ESP8266Client-1c6b closed its connection.
+1680607288: New client connected from 172.18.0.1:53438 as ESP8266Client-b214 (p2, c1, k15, u'mqtt').
+1680607296: Client ESP8266Client-f064 has exceeded timeout, disconnecting.
+1680607297: New connection from 172.18.0.1:53440 on port 1883.
+1680607297: New client connected from 172.18.0.1:53440 as ESP8266Client-7372 (p2, c1, k15, u'mqtt').
+1680607303: New connection from 172.18.0.1:53442 on port 1883.
+1680607303: New client connected from 172.18.0.1:53442 as ESP8266Client-1e06 (p2, c1, k15, u'mqtt').
+1680607303: Client ESP8266Client-b214 closed its connection.
+1680607310: New connection from 172.18.0.1:53444 on port 1883.
+1680607310: New client connected from 172.18.0.1:53444 as ESP8266Client-daac (p2, c1, k15, u'mqtt').
+1680607316: New connection from 172.18.0.1:53446 on port 1883.
+1680607316: New client connected from 172.18.0.1:53446 as ESP8266Client-7bf6 (p2, c1, k15, u'mqtt').
+1680607320: Client ESP8266Client-7372 has exceeded timeout, disconnecting.
+1680607323: New connection from 172.18.0.1:53448 on port 1883.
+1680607323: New client connected from 172.18.0.1:53448 as ESP8266Client-134b (p2, c1, k15, u'mqtt').
+1680607326: Client ESP8266Client-1e06 has exceeded timeout, disconnecting.
+1680607329: Client ESP8266Client-daac closed its connection.
+1680607330: New connection from 172.18.0.1:53450 on port 1883.
+1680607330: New client connected from 172.18.0.1:53450 as ESP8266Client-ff2e (p2, c1, k15, u'mqtt').
+1680607344: Client ESP8266Client-7bf6 has exceeded timeout, disconnecting.
+1680607350: Client ESP8266Client-134b has exceeded timeout, disconnecting.
+1680607353: New connection from 172.18.0.1:53452 on port 1883.
+1680607353: New client connected from 172.18.0.1:53452 as ESP8266Client-5709 (p2, c1, k15, u'mqtt').
+1680607356: Client ESP8266Client-ff2e has exceeded timeout, disconnecting.
+1680608221: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1680608994: Client ESP8266Client-5709 has exceeded timeout, disconnecting.
+1680610022: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1680611050: New connection from 172.18.0.1:53478 on port 1883.
+1680611050: New client connected from 172.18.0.1:53478 as ESP8266Client-b1fb (p2, c1, k15, u'mqtt').
+1680611823: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1680612708: Client ESP8266Client-b1fb has exceeded timeout, disconnecting.
+1680612720: New connection from 172.18.0.1:53482 on port 1883.
+1680612720: New client connected from 172.18.0.1:53482 as ESP8266Client-3928 (p2, c1, k15, u'mqtt').
+1680612888: Client ESP8266Client-3928 has exceeded timeout, disconnecting.
+1680613624: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1680613673: New connection from 172.18.0.1:53484 on port 1883.
+1680613673: New client connected from 172.18.0.1:53484 as ESP8266Client-bf57 (p2, c1, k15, u'mqtt').
+1680613704: Client ESP8266Client-bf57 has exceeded timeout, disconnecting.
+1680614801: New connection from 172.18.0.1:53488 on port 1883.
+1680614801: New client connected from 172.18.0.1:53488 as ESP8266Client-641d (p2, c1, k15, u'mqtt').
+1680614910: Client ESP8266Client-641d has exceeded timeout, disconnecting.
+1680615425: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1680615687: Client Telegraf-Consumer-61uB6 disconnected.
+1680615688: mosquitto version 2.0.7 terminating
+1680615688: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1680618229: mosquitto version 2.0.7 starting
+1680618229: Config loaded from /mosquitto/config/mosquitto.conf.
+1680618229: Opening ipv4 listen socket on port 1883.
+1680618229: Opening ipv6 listen socket on port 1883.
+1680618229: Opening ipv4 listen socket on port 9001.
+1680618229: Opening ipv6 listen socket on port 9001.
+1680618229: mosquitto version 2.0.7 running
+1680618231: New connection from 172.18.0.1:53492 on port 1883.
+1680618231: New client connected from 172.18.0.1:53492 as ESP8266Client-4c3c (p2, c1, k15, u'mqtt').
+1680618232: New connection from 172.18.0.4:53332 on port 1883.
+1680618232: New client connected from 172.18.0.4:53332 as Telegraf-Consumer-A3vm5 (p2, c1, k60).
+1680618355: Client ESP8266Client-4c3c has exceeded timeout, disconnecting.
+1680618357: New connection from 172.18.0.1:53498 on port 1883.
+1680618357: New client connected from 172.18.0.1:53498 as ESP8266Client-525e (p2, c1, k15, u'mqtt').
+1680618619: Client ESP8266Client-525e has exceeded timeout, disconnecting.
+1680618621: New connection from 172.18.0.1:53520 on port 1883.
+1680618621: New client connected from 172.18.0.1:53520 as ESP8266Client-6588 (p2, c1, k15, u'mqtt').
+1680618871: Client ESP8266Client-6588 has exceeded timeout, disconnecting.
+1680618886: New connection from 172.18.0.1:53522 on port 1883.
+1680618886: New client connected from 172.18.0.1:53522 as ESP8266Client-f9f2 (p2, c1, k15, u'mqtt').
+1680619057: New connection from 172.18.0.1:53524 on port 1883.
+1680619057: Client ESP8266Client-f9f2 has exceeded timeout, disconnecting.
+1680619057: New client connected from 172.18.0.1:53524 as ESP8266Client-27a2 (p2, c1, k15, u'mqtt').
+1680619231: Client ESP8266Client-27a2 has exceeded timeout, disconnecting.
+1680619231: New connection from 172.18.0.1:53526 on port 1883.
+1680619231: New client connected from 172.18.0.1:53526 as ESP8266Client-c778 (p2, c1, k15, u'mqtt').
+1680619380: Client Telegraf-Consumer-A3vm5 disconnected.
+1680619381: mosquitto version 2.0.7 terminating
+1680619381: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1680675499: mosquitto version 2.0.7 starting
+1680675499: Config loaded from /mosquitto/config/mosquitto.conf.
+1680675499: Opening ipv4 listen socket on port 1883.
+1680675499: Opening ipv6 listen socket on port 1883.
+1680675499: Opening ipv4 listen socket on port 9001.
+1680675499: Opening ipv6 listen socket on port 9001.
+1680675499: mosquitto version 2.0.7 running
+1680675502: New connection from 172.18.0.4:53366 on port 1883.
+1680675502: New client connected from 172.18.0.4:53366 as Telegraf-Consumer-xu5ye (p2, c1, k60).
+1680677300: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1680678438: New connection from 172.18.0.1:53562 on port 1883.
+1680678438: New client connected from 172.18.0.1:53562 as ESP8266Client-963d (p2, c1, k15, u'mqtt').
+1680679101: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1680679116: New connection from 172.18.0.1:53566 on port 1883.
+1680679116: New client connected from 172.18.0.1:53566 as ESP8266Client-3ae8 (p2, c1, k15, u'mqtt').
+1680679116: Client ESP8266Client-963d has exceeded timeout, disconnecting.
+1680680353: Client ESP8266Client-3ae8 has exceeded timeout, disconnecting.
+1680680357: New connection from 172.18.0.1:53568 on port 1883.
+1680680357: New client connected from 172.18.0.1:53568 as ESP8266Client-e9d0 (p2, c1, k15, u'mqtt').
+1680680385: New connection from 172.18.0.1:53570 on port 1883.
+1680680385: New client connected from 172.18.0.1:53570 as ESP8266Client-3c37 (p2, c1, k15, u'mqtt').
+1680680388: Client ESP8266Client-e9d0 has exceeded timeout, disconnecting.
+1680680610: mosquitto version 2.0.7 starting
+1680680610: Config loaded from /mosquitto/config/mosquitto.conf.
+1680680610: Opening ipv4 listen socket on port 1883.
+1680680610: Opening ipv6 listen socket on port 1883.
+1680680610: Opening ipv4 listen socket on port 9001.
+1680680610: Opening ipv6 listen socket on port 9001.
+1680680610: mosquitto version 2.0.7 running
+1680680891: New connection from 172.18.0.4:51610 on port 1883.
+1680680891: New client connected from 172.18.0.4:51610 as Telegraf-Consumer-HiMhd (p2, c1, k60).
+1680681828: New connection from 172.18.0.1:33086 on port 1883.
+1680681828: New client connected from 172.18.0.1:33086 as ESP8266Client-e93a (p2, c1, k15, u'mqtt').
+1680681865: Client ESP8266Client-e93a closed its connection.
+1680681868: New connection from 172.18.0.1:33090 on port 1883.
+1680681868: New client connected from 172.18.0.1:33090 as ESP8266Client-4d41 (p2, c1, k15, u'mqtt').
+1680681897: New connection from 172.18.0.1:33092 on port 1883.
+1680681897: New client connected from 172.18.0.1:33092 as ESP8266Client-bd5e (p2, c1, k15, u'mqtt').
+1680681900: Client ESP8266Client-4d41 has exceeded timeout, disconnecting.
+1680682411: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1680684212: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1680685170: Client ESP8266Client-bd5e has exceeded timeout, disconnecting.
+1680685177: New connection from 172.18.0.1:33094 on port 1883.
+1680685177: New client connected from 172.18.0.1:33094 as ESP8266Client-df6d (p2, c1, k15, u'mqtt').
+1680685621: New connection from 172.18.0.1:33096 on port 1883.
+1680685621: New client connected from 172.18.0.1:33096 as ESP8266Client-a78c (p2, c1, k15, u'mqtt').
+1680685626: Client ESP8266Client-df6d has exceeded timeout, disconnecting.
+1680685678: Client ESP8266Client-a78c disconnected: No error information.
+1680685691: New connection from 172.18.0.1:33098 on port 1883.
+1680685691: New client connected from 172.18.0.1:33098 as ESP8266Client-7b6d (p2, c1, k15, u'mqtt').
+1680685980: Client ESP8266Client-7b6d has exceeded timeout, disconnecting.
+1680685985: New connection from 172.18.0.1:33100 on port 1883.
+1680685993: New client connected from 172.18.0.1:33100 as ESP8266Client-28d7 (p2, c1, k15, u'mqtt').
+1680686013: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1680686226: Client ESP8266Client-28d7 has exceeded timeout, disconnecting.
+1680686227: New connection from 172.18.0.1:33122 on port 1883.
+1680686228: New client connected from 172.18.0.1:33122 as ESP8266Client-19ff (p2, c1, k15, u'mqtt').
+1680686340: Client ESP8266Client-19ff has exceeded timeout, disconnecting.
+1680686364: New connection from 172.18.0.1:33124 on port 1883.
+1680686364: New client connected from 172.18.0.1:33124 as ESP8266Client-1c6e (p2, c1, k15, u'mqtt').
+1680686396: New connection from 172.18.0.1:33128 on port 1883.
+1680686396: New client connected from 172.18.0.1:33128 as ESP8266Client-4cba (p2, c1, k15, u'mqtt').
+1680686399: Client ESP8266Client-1c6e closed its connection.
+1680687814: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1680687936: Client ESP8266Client-4cba has exceeded timeout, disconnecting.
+1680688612: New connection from 172.18.0.1:33134 on port 1883.
+1680688612: New client connected from 172.18.0.1:33134 as ESP8266Client-5c60 (p2, c1, k15, u'mqtt').
+1680689015: Client Telegraf-Consumer-HiMhd disconnected.
+1680689016: mosquitto version 2.0.7 terminating
+1680689016: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1680689022: mosquitto version 2.0.7 starting
+1680689022: Config loaded from /mosquitto/config/mosquitto.conf.
+1680689022: Opening ipv4 listen socket on port 1883.
+1680689022: Opening ipv6 listen socket on port 1883.
+1680689022: Opening ipv4 listen socket on port 9001.
+1680689022: Opening ipv6 listen socket on port 9001.
+1680689022: mosquitto version 2.0.7 running
+1680689023: New connection from 172.18.0.1:33138 on port 1883.
+1680689023: New client connected from 172.18.0.1:33138 as ESP8266Client-5617 (p2, c1, k15, u'mqtt').
+1680689025: New connection from 172.18.0.4:51668 on port 1883.
+1680689025: New client connected from 172.18.0.4:51668 as Telegraf-Consumer-Oapje (p2, c1, k60).
+1680689177: Client Telegraf-Consumer-Oapje disconnected.
+1680689178: New connection from 172.18.0.4:51672 on port 1883.
+1680689178: New client connected from 172.18.0.4:51672 as Telegraf-Consumer-j3HIW (p2, c1, k60).
+1680689217: Client Telegraf-Consumer-j3HIW closed its connection.
+1680689224: mosquitto version 2.0.7 terminating
+1680689224: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1680689482: mosquitto version 2.0.7 starting
+1680689482: Config loaded from /mosquitto/config/mosquitto.conf.
+1680689482: Opening ipv4 listen socket on port 1883.
+1680689482: Opening ipv6 listen socket on port 1883.
+1680689482: Opening ipv4 listen socket on port 9001.
+1680689482: Opening ipv6 listen socket on port 9001.
+1680689482: mosquitto version 2.0.7 running
+1680689485: New connection from 172.18.0.4:51862 on port 1883.
+1680689485: New client connected from 172.18.0.4:51862 as Telegraf-Consumer-dBmiw (p2, c1, k60).
+1680689677: New connection from 172.18.0.1:33338 on port 1883.
+1680689677: New client connected from 172.18.0.1:33338 as ESP8266Client-bcda (p2, c1, k15, u'mqtt').
+1680690075: Client Telegraf-Consumer-dBmiw disconnected.
+1680690077: New connection from 172.18.0.4:51892 on port 1883.
+1680690077: New client connected from 172.18.0.4:51892 as Telegraf-Consumer-ZiGxO (p2, c1, k60).
+1680690198: Client Telegraf-Consumer-ZiGxO disconnected.
+1680690200: New connection from 172.18.0.4:51896 on port 1883.
+1680690200: New client connected from 172.18.0.4:51896 as Telegraf-Consumer-NfM0y (p2, c1, k60).
+1680690325: Client ESP8266Client-bcda closed its connection.
+1680690327: New connection from 172.18.0.1:33374 on port 1883.
+1680690327: New client connected from 172.18.0.1:33374 as ESP8266Client-9f63 (p2, c1, k15, u'mqtt').
+1680691282: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1680691416: New connection from 172.18.0.1:33388 on port 1883.
+1680691416: New client connected from 172.18.0.1:33388 as ESP8266Client-4cc3 (p2, c1, k15, u'mqtt').
+1680691418: Client ESP8266Client-9f63 closed its connection.
+1680693083: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1680694884: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1680696685: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1680698486: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1680700287: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1680701685: Client Telegraf-Consumer-NfM0y disconnected.
+1680701686: mosquitto version 2.0.7 terminating
+1680701686: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1680708906: mosquitto version 2.0.7 starting
+1680708906: Config loaded from /mosquitto/config/mosquitto.conf.
+1680708906: Opening ipv4 listen socket on port 1883.
+1680708906: Opening ipv6 listen socket on port 1883.
+1680708906: Opening ipv4 listen socket on port 9001.
+1680708906: Opening ipv6 listen socket on port 9001.
+1680708906: mosquitto version 2.0.7 running
+1680708910: New connection from 172.18.0.4:51934 on port 1883.
+1680708910: New client connected from 172.18.0.4:51934 as Telegraf-Consumer-zXpXl (p2, c1, k60).
+1680709042: New connection from 172.18.0.1:33410 on port 1883.
+1680709042: New client connected from 172.18.0.1:33410 as ESP8266Client-cc2f (p2, c1, k15, u'mqtt').
+1680709283: Client ESP8266Client-cc2f has exceeded timeout, disconnecting.
+1680709295: New connection from 172.18.0.1:33414 on port 1883.
+1680709295: New client connected from 172.18.0.1:33414 as ESP8266Client-bf9c (p2, c1, k15, u'mqtt').
+1680715777: mosquitto version 2.0.7 starting
+1680715777: Config loaded from /mosquitto/config/mosquitto.conf.
+1680715777: Opening ipv4 listen socket on port 1883.
+1680715777: Opening ipv6 listen socket on port 1883.
+1680715777: Opening ipv4 listen socket on port 9001.
+1680715777: Opening ipv6 listen socket on port 9001.
+1680715777: mosquitto version 2.0.7 running
+1680715779: mosquitto version 2.0.7 terminating
+1680715779: Saving in-memory database to /mosquitto/data//mosquitto.db.
